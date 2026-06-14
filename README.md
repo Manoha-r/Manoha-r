@@ -478,19 +478,19 @@ open_to:
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/ManoharNaidu">
+<a href="https://www.linkedin.com/in/manoharnaidubugatha/">
   <img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/ManoharNaidu">
+<a href="https://github.com/Manoha-r">
   <img src="https://img.shields.io/badge/🐙%20GitHub-Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/ManoharNaidu">
+<a href="https://leetcode.com/u/myselfManu29/">
   <img src="https://img.shields.io/badge/💡%20LeetCode-See%20My%20DSA%20Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
