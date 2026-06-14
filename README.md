@@ -12,11 +12,11 @@
 
 <a href="mailto:manoharnaidubugatha@gmail.com"><img src="https://img.shields.io/badge/Gmail-manoharnaidubugatha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/ManoharNaidu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manoharnaidu-bugatha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://github.com/ManoharNaidu"><img src="https://img.shields.io/badge/GitHub-ManoharNaidu-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Manoha-r"><img src="https://img.shields.io/badge/GitHub-Manoha--r-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 &nbsp;
-<a href="https://leetcode.com/ManoharNaidu"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/myselfManu29/"><img src="https://img.shields.io/badge/LeetCode-myselfManu29-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
@@ -30,7 +30,7 @@
 &nbsp;
 ![](https://img.shields.io/badge/💡%20Open%20To-Internships%202025-8B5CF6?style=flat-square)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=ManoharNaidu&color=7C3AED&style=flat-square&label=👁%20Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Manoha-r&color=7C3AED&style=flat-square&label=👁%20Profile+Views)
 
 </div>
 
@@ -187,7 +187,7 @@ My problem-solving muscle is trained across 100+ DSA challenges in Java, spannin
 | **UI/UX** | Interactive navigation, structured layouts, responsive design |
 | **Engineering** | Reusable components, modular folder structure, prop-driven rendering |
 | **Impact** | Empowers final-year students to make informed career decisions |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManoharNaidu) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Manoha-r) |
 
 **What makes this different:** Rather than a static resource page, NextStep is a dynamic, component-driven experience. Every career path renders from structured data, making the app infinitely scalable — add a domain, and it just works. Built with a product mindset: content is data, UI is logic, design is intentional.
 
@@ -225,7 +225,7 @@ My problem-solving muscle is trained across 100+ DSA challenges in Java, spannin
 | **Data Layer** | Mongoose schema with validation, error handling, and relationships |
 | **UI** | Dynamic EJS templates, Bootstrap responsive layout |
 | **Engineering Quality** | Centralized error handling, structured routing, input validation |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ManoharNaidu) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Manoha-r) |
 
 **What makes this different:** This isn't a tutorial clone — it's a backend engineering exercise. Every route is intentional, every schema constraint has a reason, and every auth flow is production-aware. The codebase demonstrates how real software is structured at scale.
 
@@ -341,15 +341,15 @@ My problem-solving muscle is trained across 100+ DSA challenges in Java, spannin
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ManoharNaidu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/myselfManu29/)
 &nbsp;
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active%20Practitioner-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/ManoharNaidu)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active%20Practitioner-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Manoha-r)
 
 <br/>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/ManoharNaidu)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Manoha-r)
 &nbsp;
-[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/ManoharNaidu)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Competitive%20Coder-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Manoha-r)
 
 </div>
 
@@ -363,15 +363,15 @@ My problem-solving muscle is trained across 100+ DSA challenges in Java, spannin
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ManoharNaidu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=A855F7&icon_color=7C3AED&text_color=E9D5FF&bg_color=0D0221"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manoha-r&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7C3AED&title_color=A855F7&icon_color=7C3AED&text_color=E9D5FF&bg_color=0D0221"/>
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoharNaidu&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=A855F7&text_color=E9D5FF&bg_color=0D0221"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoha-r&layout=compact&langs_count=8&theme=tokyonight&border_color=7C3AED&title_color=A855F7&text_color=E9D5FF&bg_color=0D0221"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ManoharNaidu&theme=tokyonight&border=7C3AED&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7&sideLabels=E9D5FF&dates=C4B5FD&background=0D0221"/>
+<img src="https://streak-stats.demolab.com?user=Manoha-r&theme=tokyonight&border=7C3AED&ring=A855F7&fire=7C3AED&currStreakLabel=A855F7&sideLabels=E9D5FF&dates=C4B5FD&background=0D0221"/>
 
 </div>
 
@@ -385,7 +385,7 @@ My problem-solving muscle is trained across 100+ DSA challenges in Java, spannin
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ManoharNaidu&theme=dracula&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Manoha-r&theme=dracula&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -399,7 +399,7 @@ My problem-solving muscle is trained across 100+ DSA challenges in Java, spannin
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ManoharNaidu&theme=react-dark&bg_color=0D0221&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=3B0764&hide_border=false&border_color=7C3AED&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manoha-r&theme=react-dark&bg_color=0D0221&color=A855F7&line=7C3AED&point=C4B5FD&area=true&area_color=3B0764&hide_border=false&border_color=7C3AED&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -414,9 +414,9 @@ My problem-solving muscle is trained across 100+ DSA challenges in Java, spannin
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManoharNaidu/ManoharNaidu/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManoharNaidu/ManoharNaidu/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ManoharNaidu/ManoharNaidu/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manoha-r/Manoha-r/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manoha-r/Manoha-r/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Manoha-r/Manoha-r/output/github-snake.svg"/>
 </picture>
 
 </div>
@@ -478,7 +478,7 @@ open_to:
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/manoharnaidubugatha/">
+<a href="https://www.linkedin.com/in/manoharnaidu-bugatha/">
   <img src="https://img.shields.io/badge/💼%20LinkedIn-Let's%20Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
